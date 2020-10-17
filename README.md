@@ -1,4 +1,19 @@
-# project-vue
+# project vue application
+this project is build with:
+- vue
+- Ubuntu touch
+- platzi APi
+- JS
+
+## Commands for debug desktop in Ubuntu Touch
+```
+clickable desktop
+```
+## Commands for debug in device with Ubuntu Touch
+```
+clickable install
+```
+## this commands works fine if you run the application for webapp
 
 ## Project setup
 ```
