@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=lina
+Exec=webapp-container --app-id="lina.lina" $@ www/index.html
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
